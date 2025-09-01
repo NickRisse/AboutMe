@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Nick
-- 👀 I’m interested in games and music
-- 🌱 I’m currently learning Creative Media and Game Technologies at the Hanze University of Applied Science.
+- 👋 Hi, I’m Nick.
+- 👀 I’m interested in games and motorsports.
+- 🌱 I’m a recent graduate from CMGT at Hanze UAS.
 - 💞️ I’m looking to collaborate on my group projects and level up my coding skills.
 - 📫 How to reach me: Discord FoX#6580
 
